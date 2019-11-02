@@ -5,6 +5,7 @@
 #include <netinet/ip.h> 
 #include<arpa/inet.h>
 #include<string.h>
+
 int main()
 {
         int sock,n,l;
